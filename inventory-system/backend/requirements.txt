@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.7
+Flask-Cors==4.0.0
+python-dotenv==1.0.1
+marshmallow==3.21.3
+Flask-Marshmallow==1.2.1
+psycopg[binary]
+Marshmallow-SQLAlchemy==1.4.2
